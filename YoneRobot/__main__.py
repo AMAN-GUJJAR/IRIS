@@ -84,7 +84,7 @@ buttons = [
             text="〘 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 〙", url="t.me/Yone_Robot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="ᴀʙᴏᴜᴛ", callback_data="yone_"),
+        InlineKeyboardButton(text="〘 𝙰𝙱𝙾𝚄𝚃 〙", callback_data="yone_"),
         InlineKeyboardButton(
             text="〘 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 〙", url=f"https://t.me/{SUPPORT_CHAT}"
         ),
