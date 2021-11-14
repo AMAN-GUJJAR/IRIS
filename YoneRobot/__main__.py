@@ -81,12 +81,12 @@ PM_START_TEXT = """
 buttons = [
     [
         InlineKeyboardButton(
-            text="〘 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 〙", url="t.me/Yone_Robot?startgroup=true"),
+            text="〘 𝙰𝙳𝙳 𝙼𝙴 𝚃𝙾 𝚈𝙾𝚄𝚁 𝙶𝚁𝙾𝚄𝙿 〙", url="t.me/IRIS_MANAGEMENT_BOT?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="〘 𝙰𝙱𝙾𝚄𝚃 〙", callback_data="yone_"),
         InlineKeyboardButton(
-            text="〘 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 〙", url=f"https://t.me/{SUPPORT_CHAT}"
+            text="〘 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 〙", url=f"https://t.me/IRIS_MGM_SPRT"
         ),
     ],
     [
